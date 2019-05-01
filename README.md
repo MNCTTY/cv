@@ -2,7 +2,7 @@
 
 This repository contains some simple tasks on the field of computer vision.
 
-### Contains:
+### Сontents:
 
 #### tensorflow folder:
 here are lots of files that are implementing custom training of [research tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection).
