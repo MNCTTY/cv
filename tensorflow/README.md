@@ -1,9 +1,7 @@
 # object-detection
 
 There is a mess now. Deal with it.
-
 I'm dealing.
-
 - - -
 ### What are here:
 
@@ -15,7 +13,7 @@ such as
 * ready folders **data** and **training** in its final form
 * even **weights**, but they are not well
 
-Also I have *some kind* of my own object detection guide, written far away from formal and literature languge. So, I do not recommend read it yet. When I have an opportunity to walk this path again, I'll change it and make it perfect and exemplary. 
+Also I have *some kind* of my own **object detection guide**, written far away from formal and literature languge. So, *I do not recommend* read it yet. When I have an opportunity to walk this path again, I'll change it and make it perfect and exemplary. 
 
 ---
 ### Some usefull links:
