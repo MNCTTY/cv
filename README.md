@@ -5,7 +5,7 @@ This repository contains some simple tasks on the field of computer vision.
 ### Contains:
 
 #### tensorflower folder:
-contains lots of files that are implementing custom training of [research tensorflow object detection model] (https://github.com/tensorflow/models/tree/master/research/object_detection).
+contains lots of files that are implementing custom training of [research tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 
 #### keras folder:
