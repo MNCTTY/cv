@@ -5,13 +5,14 @@ This repository contains some simple tasks on the field of computer vision.
 ### Contains:
 
 #### tensorflower folder:
-contains
+contains lots of files that are implementing custom training of [research tensorflow object detection model] (https://github.com/tensorflow/models/tree/master/research/object_detection).
 
 
 #### keras folder:
 pure and plain architectures on keras
 
 * **Cats_Dogs_Classifier.ipynb**
+
 An implementation of a binary classification task. The architecture is a shallow convolution neural network.
 
 #### mask r-cnn folder:
