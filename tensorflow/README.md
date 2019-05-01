@@ -1,8 +1,10 @@
 # object-detection
 
 There is a mess now. Deal with it.
+I'm dealing.
 
 - - -
+### What are here:
 
 As I remember, **minimalistic pack** contains all crusial files for training.
 And in **object-detection** can be found different usable things,
@@ -15,7 +17,7 @@ such as
 Also I have *some kind* of my own object detection guide, written far away from formal and literature languge. So, I do not recommend read it yet. When I have an opportunity to walk this path again, I'll change it and make it perfect and exemplary. 
 
 ---
-Some usefull links:
+### Some usefull links:
 
 * [Tensorflow / research / object detection](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
