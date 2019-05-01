@@ -2,7 +2,7 @@
 
 There is a mess now. Deal with it.
 
---
+- - -
 
 As I remember, **minimalistic pack** contains all crusial files for training.
 And in **object-detection** can be found different usable things,
