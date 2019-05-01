@@ -1,13 +1,31 @@
 # opencv
 
-This repository contains some simple tasks I've done using opencv lib.
+This repository contains some simple tasks on the field of computer vision.
 
-### They are:
+### Contains:
+
+#### tensorflower folder:
+contains
+
+
+#### keras folder:
+contains
+
+
+#### mask r-cnn folder:
+contains a bunch of custom made run and postprocess notebooks
+Implementation of an algorithm was taken from [here](https://github.com/matterport/Mask_RCNN).
+
+
+#### toolkit folder:
 
 * **Binarization_sign.ipynb**
 * **Photo_2_Scan.ipynb** 
 
 Use this two to make easier your bureaucratic routine.
+
+
+#### opencv folder:
 
 * **Бинаризация руки (кожи) на плохом фоне.ipynb**
 
