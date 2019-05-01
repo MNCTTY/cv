@@ -9,8 +9,10 @@ contains
 
 
 #### keras folder:
-contains
+pure and plain architectures on keras
 
+* **Cats_Dogs_Classifier.ipynb**
+An implementation of a binary classification task. The architecture is a shallow convolution neural network.
 
 #### mask r-cnn folder:
 contains a bunch of custom made run and postprocess notebooks
