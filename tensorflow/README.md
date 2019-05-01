@@ -3,6 +3,18 @@
 There is a mess now. Deal with it.
 
 ---
+
+As I remember, **minimalistic pack** contains all crusial files for training.
+And in **object-detection** can be found different usable things,
+such as 
+* collected and labeled dataset
+* protoc.exe to build tf proto files
+* ready folders **data** and **training** in its final form
+* even **weights**, but they are not well
+
+Also I have *some kind* of my own object detection guide, written far away from formal and literature languge. So, I do not recommend read it yet. When I have an opportunity to walk this path again, I'll change it and make it perfect and exemplary. 
+
+---
 Some usefull links:
 
 * [Tensorflow / research / object detection](https://github.com/tensorflow/models/tree/master/research/object_detection)
