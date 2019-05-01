@@ -1,12 +1,13 @@
-# opencv
+# Computer Vision
 
 This repository contains some simple tasks on the field of computer vision.
 
 ### Contains:
 
 #### tensorflow folder:
-contains lots of files that are implementing custom training of [research tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection).
+here are lots of files that are implementing custom training of [research tensorflow object detection model](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
+Find detailed readme in the folder itself.
 
 #### keras folder:
 pure and plain architectures on keras
